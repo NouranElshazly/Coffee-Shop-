@@ -1,4 +1,3 @@
-# Coffee-Shop-
 # ☕ Nour Coffee
 
 ## 🌟 Project Overview
